@@ -25,7 +25,7 @@ export const navLinks = [
 ];
 
 export const heroCards = [
-  { label: "CGPA", value: "9.04", hint: "Apollo University" },
+  { label: "CGPA", value: "8.9", hint: "Apollo University" },
   { label: "AI Projects", value: "6", hint: "Shipped end to end" },
   { label: "Research", value: "1", hint: "Paper co-authored" },
   { label: "Conferences", value: "4", hint: "Tech events attended" },
@@ -72,6 +72,10 @@ export const skillCategories = [
   {
     title: "Tools",
     items: ["Git", "GitHub", "VS Code", "Jupyter", "Postman"],
+  },
+  {
+    title: "Business Intelligence",
+    items: ["Power BI", "Tableau", "Excel"],
   },
   {
     title: "Cloud",
